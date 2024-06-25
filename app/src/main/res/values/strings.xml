@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlowerGardens</string>
+    <string name="flower_list">Flower List</string>
+    <string name="flower_description">Flower Description</string>
+</resources>
